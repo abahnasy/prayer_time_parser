@@ -5,6 +5,8 @@ import pdfplumber
 
 """
 Notes: use 24 Hour time format
+
+Based on the calendar from https://www.islamisches-zentrum-muenchen.de/links-downloads/
 """
 
 
